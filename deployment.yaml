@@ -21,4 +21,4 @@ spec:
               cpu: "500m"
           command: /a103.sh
           ports:
-            - containerPort: 8000
+            - containerPort: 8080
